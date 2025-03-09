@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f5b71c-a636-49d6-8124-fbbe37aa6099" name="Changes" comment="2 Comit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5f5b71c-a636-49d6-8124-fbbe37aa6099" name="Changes" comment="3 Comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dima-us&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dima-us/Django.git&quot;,
+    &quot;accountId&quot;: &quot;e13d3843-f713-45a3-9c5b-d8df35a69920&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -23,14 +44,26 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.DjangoProject1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\feshc\PycharmProjects\DjangoProject1\praktodun" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="DjangoProject1" type="Python.DjangoServer" factoryName="Django server">
       <module name="DjangoProject1" />
@@ -39,6 +72,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="DjangoProject1.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -77,6 +111,11 @@
       <workItem from="1741542813891" duration="7000" />
       <workItem from="1741542885523" duration="90000" />
       <workItem from="1741543250341" duration="7000" />
+      <workItem from="1741543277368" duration="1691000" />
+      <workItem from="1741544989765" duration="72000" />
+      <workItem from="1741545069358" duration="176000" />
+      <workItem from="1741545255177" duration="229000" />
+      <workItem from="1741545494114" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="1 Comit">
       <option name="closed" value="true" />
@@ -126,7 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741542970958</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2 Comit">
+      <option name="closed" value="true" />
+      <created>1741543368478</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741543368478</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3 Comit">
+      <option name="closed" value="true" />
+      <created>1741546339193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741546339193</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3 Comit">
+      <option name="closed" value="true" />
+      <created>1741546366589</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741546366589</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Comit" />
     <MESSAGE value="2 Comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Comit" />
+    <MESSAGE value="3 Comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Comit" />
   </component>
 </project>
